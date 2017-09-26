@@ -1,0 +1,12 @@
+baseURL = "http://eugenesiow.com/"
+languageCode = "en-us"
+title = "Eugene Siow"
+theme = "geekfolio"
+sectionPagesMenu = "main"
+
+[[menu.main]]
+    pre = "<i class='fa fa-github' aria-hidden='true'></i>"
+    name = "zGithub"
+    weight = 0
+    identifier = "github"
+    url = "https://github.com/eugenesiow"

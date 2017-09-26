@@ -1,0 +1,9 @@
+<nav class="page-nav">
+    <ul class="nav nav-pills">
+        <li {{ if eq .URL "/" }}class="active"{{end}}><a href="/">{{ .Site.Title }}</a></li>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            <li{{if $currentPage.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.URL}}">{{if .Pre}}{{.Pre}}{{else}}{{.Name}}{{end}}</a></li>
+        {{end}}       
+     </ul>
+</nav>
