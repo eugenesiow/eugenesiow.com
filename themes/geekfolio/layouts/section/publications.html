@@ -11,4 +11,15 @@
             </div>
         {{ end }}
     </div>
+    {{ $section := where .Data.Pages "Type" "dataset" }}
+    <div class="container">
+        <h1>Datasets</h1>
+        {{ range $section }}
+            <div class="row">
+                <ul class="nav nav-stacked blog-list">
+                    {{ partial "summary.html" . }}
+                </ul>
+            </div>
+        {{ end }}
+    </div>
 {{ end }}

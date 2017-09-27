@@ -2,6 +2,7 @@
 date: 2016-08-25T00:00:00-00:00
 description: "Proceedings of the 3rd International Conference on Internet Science"
 tags: ["scene"]
+type: "paper"
 author: "Eugene Siow, Thanassis Tiropanis, Wendy Hall"
 title: "Interoperable & Efficient: Linked Data for the Internet of Things"
 rg: "https://www.researchgate.net/publication/306527226_Interoperable_and_Efficient_Linked_Data_for_the_Internet_of_Things"

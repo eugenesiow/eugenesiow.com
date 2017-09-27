@@ -2,6 +2,7 @@
 date: 2016-09-23T00:00:00-00:00
 description: "Proceedings of the 15th International Semantic Web Conference"
 tags: ["scene"]
+type: "paper"
 author: "Eugene Siow, Thanassis Tiropanis, Wendy Hall"
 title: "SPARQL-to-SQL on Internet of Things Databases and Streams"
 eprints: "https://eprints.soton.ac.uk/397863/"

@@ -2,6 +2,7 @@
 date: 2017-07-17T00:00:00-00:00
 description: "Proceedings of the 4th International Conference on Internet Science"
 tags: ["scene"]
+type: "paper"
 author: "Eugene Siow, Thanassis Tiropanis, Wendy Hall"
 title: "Ewya: An Interoperable Fog Computing Infrastructure with RDF Stream Processing"
 eprints: "https://eprints.soton.ac.uk/412749/"

@@ -2,6 +2,7 @@
 date: 2016-09-23T00:00:00-00:00
 description: "Proceedings of the 15th International Semantic Web Conference (Poster and Demo Track)"
 tags: ["scene"]
+type: "paper"
 author: "Eugene Siow, Thanassis Tiropanis, Wendy Hall"
 title: "PIOTRe: Personal Internet of Things Repository"
 eprints: "https://eprints.soton.ac.uk/399327/"
