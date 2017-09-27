@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://eugenesiow.com/publications/eywa/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/publications/piotre/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/publications/sparql2sql/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/publications/iot_linked_data/</loc>
+    <lastmod>2016-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/about/</loc>
   </url>
   
@@ -12,11 +32,24 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/publications/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/scene/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://eugenesiow.com/tags/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

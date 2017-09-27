@@ -130,7 +130,7 @@ h1 {
 
 .blog-list>li>a {
     display: block;
-    text-align: center;
+    text-align: left;
     color: #1c1c1c;
     border-bottom: 1px solid #ccc;
 }
@@ -179,3 +179,48 @@ h1 {
 #blog-loader {
     display: none;
 }
+
+a.pub-icon {
+    font-size: 3em;
+    color: #acacac;
+    margin-right: 5px;
+}
+
+a.pub-icon:hover, a.pub-icon:focus {
+    text-decoration: none;
+    color: #1c1c1c;
+}
+
+@font-face {
+    font-family: 'publicationsicons';
+    src:  url('fonts/publicationsicons.eot?caqeb0');
+    src:  url('fonts/publicationsicons.eot?caqeb0#iefix') format('embedded-opentype'),
+      url('fonts/publicationsicons.ttf?caqeb0') format('truetype'),
+      url('fonts/publicationsicons.woff?caqeb0') format('woff'),
+      url('fonts/publicationsicons.svg?caqeb0#publicationsicons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'publicationsicons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-eprints:before {
+    content: "\e900";
+  }
+  .icon-researchgate:before {
+    content: "\e901";
+  }
+  
