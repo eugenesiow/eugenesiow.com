@@ -1,5 +1,14 @@
 {{ define "main" }}
-<div class="jumbotron">
     {{ .Content }}   
-</div>   
+    {{ $section := where .Data.Pages "Section" .Section }}
+    <div class="container">
+        <h1>Papers</h1>
+        {{ range  $section }}
+            <div class="row">
+                <ul class="nav nav-stacked blog-list">
+                    {{ partial "summary.html" . }}
+                </ul>
+            </div>
+        {{ end }}
+        </div>
 {{ end }}
