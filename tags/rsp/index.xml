@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Researcher, Developer, Geek on Eugene Siow</title>
-    <link>http://eugenesiow.com/</link>
-    <description>Recent content in Researcher, Developer, Geek on Eugene Siow</description>
+    <title>Rsp on Eugene Siow</title>
+    <link>http://eugenesiow.com/tags/rsp/</link>
+    <description>Recent content in Rsp on Eugene Siow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://eugenesiow.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://eugenesiow.com/tags/rsp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,38 +36,6 @@
       
       <guid>http://eugenesiow.com/publications/sparql2sql/</guid>
       <description>Abstract To realise a semantic Web of Things, the challenge of achieving efficient Resource Description Format (RDF) storage and SPARQL query performance on Internet of Things (IoT) devices with limited resources has to be addressed. State-of-the-art SPARQL-to-SQL engines have been shown to outperform RDF stores on some benchmarks. In this paper, we describe an optimisation to the SPARQL-to-SQL approach, based on a study of time-series IoT data structures, that employs metadata abstraction and efficient translation by reusing existing SPARQL engines to produce Linked Data ‘just-in-time’.</description>
-    </item>
-    
-    <item>
-      <title>Interoperable &amp; Efficient: Linked Data for the Internet of Things</title>
-      <link>http://eugenesiow.com/publications/iot_linked_data/</link>
-      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/publications/iot_linked_data/</guid>
-      <description>Abstract Two requirements to utilise the large source of time-series sensor data from the Internet of Things are interoperability and efficient access. We present a Linked Data solution that increases interoperability through the use and referencing of common identifiers and ontologies for integration. From our study of the shape of Internet of Things data, we show how we can improve access within the resource constraints of Lightweight Computers, compact machines deployed in close proximity to sensors, by storing time-series data succinctly as rows and producing Linked Data ‘just-in-time’.</description>
-    </item>
-    
-    <item>
-      <title>Cross-IoT Study of the Characteristics of IoT Schemata and Data Streams</title>
-      <link>http://eugenesiow.com/publications/cross_iot/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/publications/cross_iot/</guid>
-      <description>A broad cross-IoT study of the characteristics of Things schemata and data streams. The aim of the study is to determine the flatness, width, types of attribute values and periodicity of current IoT data streams from various domains and use cases.
-There are individual README.md files describing each of the datasets and the files within the dataset in more detail.
-Studies:  SparkFun: 614 schemata of devices in Jan 2016 : Folder /sparkfun/</description>
-    </item>
-    
-    <item>
-      <title>Dweet.io IoT device schema</title>
-      <link>http://eugenesiow.com/publications/dweetio/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/publications/dweetio/</guid>
-      <description>A collection of IoT schemata to determine the characteristics of IoT data. The focus was on whether IoT data was complex or flat, wide or narrow, numerical or non-numerical and even or unevenly spaced.
-There were 22,662 schemata collected in Jan2016 of which 1,541 are empty and 9,561 are non-IoT schemata (dweet.zip).
-Each schema is a .json file and they are classified into folders (complex, empty, flat).
-Additional collected content (available in Apr 2017) of dweets is in another file called dweet_content.</description>
     </item>
     
   </channel>

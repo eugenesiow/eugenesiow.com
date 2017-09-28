@@ -6,17 +6,80 @@
     <description>Recent content in Tags on Eugene Siow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://eugenesiow.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Scene</title>
-      <link>http://eugenesiow.com/tags/scene/</link>
+      <title>Analytics</title>
+      <link>http://eugenesiow.com/tags/analytics/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fog Computing</title>
+      <link>http://eugenesiow.com/tags/fog-computing/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
+      <guid>http://eugenesiow.com/tags/fog-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iot</title>
+      <link>http://eugenesiow.com/tags/iot/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linked Data</title>
+      <link>http://eugenesiow.com/tags/linked-data/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/linked-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query Translation</title>
+      <link>http://eugenesiow.com/tags/query-translation/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/query-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rsp</title>
+      <link>http://eugenesiow.com/tags/rsp/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/rsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scene</title>
+      <link>http://eugenesiow.com/tags/scene/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://eugenesiow.com/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparql</title>
+      <link>http://eugenesiow.com/tags/sparql/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/sparql/</guid>
       <description></description>
     </item>
     

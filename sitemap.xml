@@ -37,7 +37,31 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/tags/analytics/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/fog-computing/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/iot/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/linked-data/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,19 +71,37 @@
   </url>
   
   <url>
-    <loc>http://eugenesiow.com/</loc>
-    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/scene/</loc>
+    <loc>http://eugenesiow.com/tags/query-translation/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eugenesiow.com/tags/</loc>
+    <loc>http://eugenesiow.com/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/rsp/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/scene/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/sparql/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

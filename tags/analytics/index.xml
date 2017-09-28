@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics on Eugene Siow</title>
+    <link>http://eugenesiow.com/tags/analytics/</link>
+    <description>Recent content in Analytics on Eugene Siow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://eugenesiow.com/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PIOTRe: Personal Internet of Things Repository</title>
+      <link>http://eugenesiow.com/publications/piotre/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/publications/piotre/</guid>
+      <description>Abstract Resource-constrained Internet of Things (IoT) devices like Raspberry Pis&amp;rsquo;, with specific performance optimisation, can serve as interoperable personal Linked Data repositories for IoT applications. In this demo paper we describe PIOTRe, a personal datastore that utilises our sparql2sql query translation technology on Pis&amp;rsquo; to process, store and publish IoT time-series historical data and streams. We demonstrate with PIOTRe in a smart home scenario: a real-time dashboard that utilises RDF stream processing, a set of descriptive analytics visualisations on historical data, a framework for registering stream queries within a local network and a means of sharing metadata globally with HyperCat and Web Observatories.</description>
+    </item>
+    
+  </channel>
+</rss>

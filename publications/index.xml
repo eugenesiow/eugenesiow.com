@@ -17,7 +17,7 @@
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/publications/eywa/</guid>
-      <description>Fog computing is an emerging technology for the Internet of Things (IoT) that aims to support processing on resource-constrained distributed nodes in between the sensors and actuators on the ground and compute clusters in the cloud. Fog Computing benefits from low latency, location awareness, mobility, wide-spread deployment and geographical distribution at the edge of the network. However, there is a need to investigate, optimise for and measure the performance, scalability and interoperability of resource-constrained Fog nodes running real-time applications and queries on streaming IoT data before we can realise these benefits.</description>
+      <description>Abstract Fog computing is an emerging technology for the Internet of Things (IoT) that aims to support processing on resource-constrained distributed nodes in between the sensors and actuators on the ground and compute clusters in the cloud. Fog Computing benefits from low latency, location awareness, mobility, wide-spread deployment and geographical distribution at the edge of the network. However, there is a need to investigate, optimise for and measure the performance, scalability and interoperability of resource-constrained Fog nodes running real-time applications and queries on streaming IoT data before we can realise these benefits.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/publications/piotre/</guid>
-      <description>Resource-constrained Internet of Things (IoT) devices like Raspberry Pis&amp;rsquo;, with specific performance optimisation, can serve as interoperable personal Linked Data repositories for IoT applications. In this demo paper we describe PIOTRe, a personal datastore that utilises our sparql2sql query translation technology on Pis&amp;rsquo; to process, store and publish IoT time-series historical data and streams. We demonstrate with PIOTRe in a smart home scenario: a real-time dashboard that utilises RDF stream processing, a set of descriptive analytics visualisations on historical data, a framework for registering stream queries within a local network and a means of sharing metadata globally with HyperCat and Web Observatories.</description>
+      <description>Abstract Resource-constrained Internet of Things (IoT) devices like Raspberry Pis&amp;rsquo;, with specific performance optimisation, can serve as interoperable personal Linked Data repositories for IoT applications. In this demo paper we describe PIOTRe, a personal datastore that utilises our sparql2sql query translation technology on Pis&amp;rsquo; to process, store and publish IoT time-series historical data and streams. We demonstrate with PIOTRe in a smart home scenario: a real-time dashboard that utilises RDF stream processing, a set of descriptive analytics visualisations on historical data, a framework for registering stream queries within a local network and a means of sharing metadata globally with HyperCat and Web Observatories.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/publications/sparql2sql/</guid>
-      <description>To realise a semantic Web of Things, the challenge of achieving efficient Resource Description Format (RDF) storage and SPARQL query performance on Internet of Things (IoT) devices with limited resources has to be addressed. State-of-the-art SPARQL-to-SQL engines have been shown to outperform RDF stores on some benchmarks. In this paper, we describe an optimisation to the SPARQL-to-SQL approach, based on a study of time-series IoT data structures, that employs metadata abstraction and efficient translation by reusing existing SPARQL engines to produce Linked Data ‘just-in-time’.</description>
+      <description>Abstract To realise a semantic Web of Things, the challenge of achieving efficient Resource Description Format (RDF) storage and SPARQL query performance on Internet of Things (IoT) devices with limited resources has to be addressed. State-of-the-art SPARQL-to-SQL engines have been shown to outperform RDF stores on some benchmarks. In this paper, we describe an optimisation to the SPARQL-to-SQL approach, based on a study of time-series IoT data structures, that employs metadata abstraction and efficient translation by reusing existing SPARQL engines to produce Linked Data ‘just-in-time’.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/publications/iot_linked_data/</guid>
-      <description>Two requirements to utilise the large source of time-series sensor data from the Internet of Things are interoperability and efficient access. We present a Linked Data solution that increases interoperability through the use and referencing of common identifiers and ontologies for integration. From our study of the shape of Internet of Things data, we show how we can improve access within the resource constraints of Lightweight Computers, compact machines deployed in close proximity to sensors, by storing time-series data succinctly as rows and producing Linked Data ‘just-in-time’.</description>
+      <description>Abstract Two requirements to utilise the large source of time-series sensor data from the Internet of Things are interoperability and efficient access. We present a Linked Data solution that increases interoperability through the use and referencing of common identifiers and ontologies for integration. From our study of the shape of Internet of Things data, we show how we can improve access within the resource constraints of Lightweight Computers, compact machines deployed in close proximity to sensors, by storing time-series data succinctly as rows and producing Linked Data ‘just-in-time’.</description>
     </item>
     
     <item>
