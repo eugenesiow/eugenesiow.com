@@ -124,6 +124,10 @@ aside span.badge {
     font-weight: normal;
 }
 
+aside a:hover>span.badge {
+    text-decoration: underline;
+}
+
 aside h3 {
     font-size: 1.5em;
     margin-top: 0px;
