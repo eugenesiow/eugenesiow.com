@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="container">
+    <div class="col-md-8">
+        <h3><small>{{ .Date.Format "January, 2006" }}</small></h3>
+        <div class="paper-title"><h2>{{ .Title }}</h2>
+        <h3><small>{{ .Params.author }}</small></h3></div>
+        <div class="row">
+            <div class="container">
+                {{if .Params.eprints}}<a href="{{.Params.eprints}}" class="pub-icon" data-toggle="tooltip" title="Download from ePrints"><span class="icon-eprints"></span></a>{{end}}
+                {{if .Params.rg}}<a href="{{.Params.rg}}" class="pub-icon" data-toggle="tooltip" title="Download from ResearchGate"><span class="icon-researchgate"></span></a>{{end}}
+                {{if .Params.other}}<a href="{{.Params.other}}" class="pub-icon pub-icon-plus" data-toggle="tooltip" title="Download PDF"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>{{end}}
+            </div>
+        </div>
+        {{ .Content }} 
+    </div>
+    <div class="col-md-4 sidebar">
+        <div class="navigation">
+            <a href='{{ "publications/" | absURL }}'>&lt; Back to Publications</a>
+        </div>
+        {{ if .Params.tags }}
+        <aside class="tags">
+            <h3>Tags</h3>
+            {{ range .Params.tags }}    
+                <span class="badge">{{ . }}</span>
+            {{ end }}            
+        </aside>
+        {{end}}
+        <aside class="tags">
+            <h3>Share</h3>
+            <div class="icons">
+                <a href='https://twitter.com/intent/tweet?hashtags={{ delimit (apply .Params.tags "urlize" ".") ","}}&text={{.Title | htmlEscape}}&url={{.URL | absURL | htmlUnescape}}'>
+                    <i class="fa fa-twitter-square"></i></a>
+                <a href='https://www.facebook.com/sharer/sharer.php?{{ (querify "u" (.URL | absURL) ) | safeHTML }}'>
+                    <i class="fa fa-facebook-square"></i></a>
+                <a href='https://plus.google.com/share?url={{ (.URL | absURL) | safeHTML }}'>
+                    <i class="fa fa-google-plus-square"></i></a>
+            </div>
+        </aside>
+    </div>
+</div>   
+{{ end }}

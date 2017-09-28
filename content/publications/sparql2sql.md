@@ -1,7 +1,7 @@
 ---
 date: 2016-09-23T00:00:00-00:00
 description: "Proceedings of the 15th International Semantic Web Conference"
-tags: ["sparql", "rsp", "iot", "query translation", "linked data"
+tags: ["sparql", "rsp", "iot", "query translation", "linked data"]
 type: "paper"
 author: "Eugene Siow, Thanassis Tiropanis, Wendy Hall"
 title: "SPARQL-to-SQL on Internet of Things Databases and Streams"
