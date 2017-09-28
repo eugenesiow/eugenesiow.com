@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/eugenesiow
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://eugenesiow.com
+  * I am eugenesiow (https://keybase.io/eugenesiow) on keybase.
+  * I have a public key with fingerprint 486B 785A 2E34 CD9E 7E4F  6246 8A6C 6653 3BC7 0806
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010091c2bdcf2f71d0e6c6d5e2eb64de29c23a513250ecac873523bda6f7b58c2b0a",
+      "fingerprint": "486b785a2e34cd9e7e4f62468a6c66533bc70806",
+      "host": "keybase.io",
+      "key_id": "8a6c66533bc70806",
+      "kid": "01010091c2bdcf2f71d0e6c6d5e2eb64de29c23a513250ecac873523bda6f7b58c2b0a",
+      "uid": "9e09074568e8c47c2fe19e518fc4bc19",
+      "username": "eugenesiow"
+    },
+    "service": {
+      "hostname": "eugenesiow.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506613594,
+  "expire_in": 157680000,
+  "prev": "069865c6792ee5bde58c131723931c0c6d1abe815e81c3a5176578dc587a74fc",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSFRBGN5ttdI1uhCJVBQnCLQ1zm1mztkKCcSIIkJ62C6ynjPn3/Wk
+nrOdvWW2XcAeIiIho8iCHtqiSAiKgi5gJhiEdDOJoqtFihiloUWhzZF6qsdmGIb5
+5/u++f6P6Zzh8+R7yevvy7aVv8nz3r/TmvRs7i7a0sjpttHABRu5WpjcoM6AeCJc
+axpckOMFNnlVoKJu0IgYIYLBA6bYQCCCjmUDRJWKkoYESUQ8UI0qREKipBsajhAd
+KYzIa1yAi5hWFJyYY1oJJisrWCcK0kSQZGqoQECOYFHGisa0MZIknRJe4TEj1thx
+l8HM6Voclps2q7FDeNLeP/D/2XdyUk4FXuWJjLACCpUJFSMgqIAEJUJlnQqqC4yD
+Y2n1wNCQjIIFcdNOc5kAx+opk4IbrdvLX5jl1K5n/JhjJ2xq17G7mkQiFnSpiYaY
+i02DHv6tEtZNy2BRMkIKHEa3uKDAkDRhurIC4jEWJKTKAQ52xkwHwqaLQAQrPBvu
+M5By88GqghHFRBUBkG4A61iQBCJKqiRQngUlaDooAmKLujERjIhiUKQQjcgRyrl9
+7bBspo2ZTy3KNONm1NISSQe4TEf7thyPN98zNXeK+8c8+Xmz/vy86rnTPc0n04NN
+a48tubQKXRRXdVU+672c6WsurD7XeZdfGcr4oj2l6WzfmaunhrYPV+wJPSq4tcYz
+pwituN95trdjYuzn+LySN0ro3Ynu5l6u+FW/wxXAvZtzn+dsLNnky4x8yK3gz1f5
+6vZfaW2flXvr2vkfvuEjlaeqhRst/nXjo4ft0ILn5ES0EPWl9xw5OPPb+i+pB6ED
+S3I2v9er6ndXtvi/jy57MFY2u2T+E//1qon2xQOjhy+Ejmdbs1+3rp6+cNFrvKtv
+08hAW+bjyoLBoyeHArfXF29/7N3gfO54WtS9tOfhi5pSf9O+irLoxa17jeN5S6f1
+vz3U9fL0nbZPWW9PizhQ/gsg6EMc
+=mAjU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eugenesiow
+
+==================================================================
