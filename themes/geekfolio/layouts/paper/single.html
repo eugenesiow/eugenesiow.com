@@ -21,7 +21,7 @@
         <aside class="tags">
             <h3>Tags</h3>
             {{ range .Params.tags }}    
-                <span class="badge">{{ . }}</span>
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><span class="badge">{{ . }}</span></a>
             {{ end }}            
         </aside>
         {{end}}

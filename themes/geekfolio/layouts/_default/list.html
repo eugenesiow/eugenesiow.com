@@ -2,7 +2,7 @@
     {{ .Content }}   
     {{ $section := where .Data.Pages "Type" "paper" }}
     <div class="container">
-        <h1>Papers</h1>
+        <h1>{{.Title}}</h1>
         {{ range $section }}
             <div class="row">
                 <ul class="nav nav-stacked blog-list">
