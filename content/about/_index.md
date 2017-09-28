@@ -17,4 +17,4 @@ The geek in me is a strange blend of engineer, designer and academic. I think it
 
 Outside of work, I enjoy mountain trekking, watching football, anime, [fantasy novels](https://www.goodreads.com/eugenesiow) and history.
 
-You can connect with me on [Facebook](https://www.facebook.com/eugene.siow) or [Twitter](https://twitter.com/eugene_siow) or professionally on [LinkedIn](https://sg.linkedin.com/in/eugenesiow) or on [ResearchGate](https://www.researchgate.net/profile/Eugene_Siow).
+You can connect with me on [Facebook](https://www.facebook.com/eugene.siow) or [Twitter](https://twitter.com/eugene_siow) or professionally on [LinkedIn](https://sg.linkedin.com/in/eugenesiow) or on [ResearchGate](https://www.researchgate.net/profile/Eugene_Siow). I am also using [Keybase](https://keybase.io/eugenesiow) and [Github](https://github.com/eugenesiow).

@@ -134,6 +134,20 @@ aside h3 {
     color: #acacac;
 }
 
+footer a {
+    color: #1c1c1c;
+    font-size: 2.5em;
+    margin-right: 15px;
+}
+
+footer a:hover {
+    color: #CC4A14;
+}
+
+footer .icons {
+    text-align: center;
+}
+
 aside .icons a {
     font-size: 2.2em;
     color: #acacac;
@@ -152,6 +166,10 @@ aside .icons a:hover,a:focus {
 .blog-tags>a>span {
     font-weight: normal;
     font-size: 1em;
+}
+
+.main-section {
+    margin-bottom: 30px;
 }
 
 h1 {
