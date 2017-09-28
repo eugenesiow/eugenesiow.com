@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Sharing Databases on the Web with Porter Proxy</title>
+      <link>http://eugenesiow.com/publications/porter_proxy/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/publications/porter_proxy/</guid>
+      <description>Abstract With large number of datasets now available through the Web, data-sharing ecosystems such as the Web Observatory have emerged. The Web Observatory provides an active decentralised ecosystem for datasets and applications based on a number Web Observatory sites, each of which can run in a different administrative domain. On a Web Observatory site users can publish and securely access datasets across domains via a harmonised API and reverse proxies for access control.</description>
+    </item>
+    
+    <item>
       <title>PIOTRe: Personal Internet of Things Repository</title>
       <link>http://eugenesiow.com/publications/piotre/</link>
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
@@ -68,6 +77,15 @@ Studies:  SparkFun: 614 schemata of devices in Jan 2016 : Folder /sparkfun/</des
 There were 22,662 schemata collected in Jan2016 of which 1,541 are empty and 9,561 are non-IoT schemata (dweet.zip).
 Each schema is a .json file and they are classified into folders (complex, empty, flat).
 Additional collected content (available in Apr 2017) of dweets is in another file called dweet_content.</description>
+    </item>
+    
+    <item>
+      <title>Facilitating data-driven innovation using VOICE observatory infrastructure</title>
+      <link>http://eugenesiow.com/publications/vo/</link>
+      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/publications/vo/</guid>
+      <description>Abstract Data is the new capital of the global economy and data analysis can increase efficiency and reduce costs for innovation. Finding and accessing both public and private data is essential to exploiting this data capital. In this paper we describe a platform, VOICE Observatory (VO), that provides an infrastructure and analytical resources to facilitate data-driven innovation. The VO curates a catalogue of analytical resources and provides secure access to them.</description>
     </item>
     
   </channel>

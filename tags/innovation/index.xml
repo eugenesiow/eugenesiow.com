@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on Eugene Siow</title>
+    <link>http://eugenesiow.com/tags/innovation/</link>
+    <description>Recent content in Innovation on Eugene Siow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://eugenesiow.com/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Facilitating data-driven innovation using VOICE observatory infrastructure</title>
+      <link>http://eugenesiow.com/publications/vo/</link>
+      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/publications/vo/</guid>
+      <description>Abstract Data is the new capital of the global economy and data analysis can increase efficiency and reduce costs for innovation. Finding and accessing both public and private data is essential to exploiting this data capital. In this paper we describe a platform, VOICE Observatory (VO), that provides an infrastructure and analytical resources to facilitate data-driven innovation. The VO curates a catalogue of analytical resources and provides secure access to them.</description>
+    </item>
+    
+  </channel>
+</rss>

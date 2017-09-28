@@ -20,5 +20,14 @@
       <description>Abstract Resource-constrained Internet of Things (IoT) devices like Raspberry Pis&amp;rsquo;, with specific performance optimisation, can serve as interoperable personal Linked Data repositories for IoT applications. In this demo paper we describe PIOTRe, a personal datastore that utilises our sparql2sql query translation technology on Pis&amp;rsquo; to process, store and publish IoT time-series historical data and streams. We demonstrate with PIOTRe in a smart home scenario: a real-time dashboard that utilises RDF stream processing, a set of descriptive analytics visualisations on historical data, a framework for registering stream queries within a local network and a means of sharing metadata globally with HyperCat and Web Observatories.</description>
     </item>
     
+    <item>
+      <title>Facilitating data-driven innovation using VOICE observatory infrastructure</title>
+      <link>http://eugenesiow.com/publications/vo/</link>
+      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/publications/vo/</guid>
+      <description>Abstract Data is the new capital of the global economy and data analysis can increase efficiency and reduce costs for innovation. Finding and accessing both public and private data is essential to exploiting this data capital. In this paper we describe a platform, VOICE Observatory (VO), that provides an infrastructure and analytical resources to facilitate data-driven innovation. The VO curates a catalogue of analytical resources and provides secure access to them.</description>
+    </item>
+    
   </channel>
 </rss>
