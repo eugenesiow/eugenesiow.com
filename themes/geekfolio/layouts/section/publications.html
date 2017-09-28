@@ -1,9 +1,9 @@
 {{ define "main" }}
     {{ .Content }}   
-    {{ $section := where .Data.Pages "Type" "paper" }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "paper") 5 }}
     <div class="container">
-        <h1>Papers</h1>
-        {{ range $section }}
+        <h1 class="section-header">Papers</h1>
+        {{ range $paginator.Pages }}
             <div class="row">
                 <ul class="nav nav-stacked blog-list">
                     {{ partial "summary.html" . }}
@@ -11,9 +11,10 @@
             </div>
         {{ end }}
     </div>
+    {{ template "_internal/pagination.html" . }}
     {{ $section := where .Data.Pages "Type" "dataset" }}
     <div class="container">
-        <h1>Datasets</h1>
+        <h1 class="section-header">Datasets</h1>
         {{ range $section }}
             <div class="row">
                 <ul class="nav nav-stacked blog-list">

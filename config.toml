@@ -4,6 +4,9 @@ title = "Eugene Siow"
 theme = "geekfolio"
 sectionPagesMenu = "main"
 
+[blackfriday]
+extensions = ["hardLineBreak"]
+
 [[menu.main]]
     pre = "<i class='fa fa-github' aria-hidden='true'></i>"
     name = "zGithub"

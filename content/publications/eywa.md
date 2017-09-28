@@ -15,4 +15,6 @@ Fog computing is an emerging technology for the Internet of Things (IoT) that ai
 3. test if we can improve RDF Stream Processing query performance and scalability over state-of-the-art engines with our approach to query translation and distribution for a published IoT benchmark on resource-constrained nodes and 
 4. position Fog Computing within the Internet of the Future.
 
+### Publication Meta Information
+
 In _Proceedings of the [4th International Conference on Internet Science](http://internetscienceconference.eu/index.html)_ held in Thessaloniki, Greece
