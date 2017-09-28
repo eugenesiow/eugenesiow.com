@@ -1,8 +1,8 @@
 {{ define "main" }}
 <div class="container">
-    <h3><small>{{ .Date.Format "January, 2006" }}<br>
-        {{ .Params.author }}</small></h3>
-    <h2>{{ .Title }}</h2>
+    <h3><small>{{ .Date.Format "January, 2006" }}</small></h3>
+    <div class="paper-title"><h2>{{ .Title }}</h2>
+    <h3><small>{{ .Params.author }}</small></h3></div>
     {{ .Content }} 
     <div class="row">
         <div class="container">
