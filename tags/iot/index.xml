@@ -21,6 +21,25 @@
     </item>
     
     <item>
+      <title>A Biological Internet: Building Eywa</title>
+      <link>http://eugenesiow.com/talks/shenzhen_2017/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/talks/shenzhen_2017/</guid>
+      <description>Abstract In James Cameron&amp;rsquo;s Avatar, Eywa is the guiding force and deity of the world, Pandora. Eywa is like a huge biological internet; the trees being computer servers that store information and sensors being neural-connected flora and fauna making up the planets ecosystem. We study how this science fiction construct can be brought to life by our research on building the Social Web of Things with fog computing for decentralisation and workload distribution, Linked Data for interoperability and fast stream processing with storage and processing optimisations on lightweight computers.</description>
+    </item>
+    
+    <item>
+      <title>Patching Mr Robot: Mitigating IoT-related Cyber-social Disasters By Getting Fog Computing to Work</title>
+      <link>http://eugenesiow.com/talks/kaist_2016/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/talks/kaist_2016/</guid>
+      <description>Slides   Event Information It was back to the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, South Korea for the 3rd International Disaster Management Workshop. As per the last few times, there were some really excellent speakers from a diverse range of studies. These included presentations on Bio Engineering, Law, Computer Science, Social Media Analytics, Civil Engineering and Food Nutrition.
+I presented some of my work on Fog Computing, optimising Linked Data for Lightweight Computers and Personal IoT Repositories.</description>
+    </item>
+    
+    <item>
       <title>PIOTRe: Personal Internet of Things Repository</title>
       <link>http://eugenesiow.com/publications/piotre/</link>
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
@@ -45,6 +64,24 @@
       
       <guid>http://eugenesiow.com/publications/iot_linked_data/</guid>
       <description>Abstract Two requirements to utilise the large source of time-series sensor data from the Internet of Things are interoperability and efficient access. We present a Linked Data solution that increases interoperability through the use and referencing of common identifiers and ontologies for integration. From our study of the shape of Internet of Things data, we show how we can improve access within the resource constraints of Lightweight Computers, compact machines deployed in close proximity to sensors, by storing time-series data succinctly as rows and producing Linked Data ‘just-in-time’.</description>
+    </item>
+    
+    <item>
+      <title>Efficient and Interoperable: Linked Data for the Internet of Things</title>
+      <link>http://eugenesiow.com/talks/rda_plenary_7/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/talks/rda_plenary_7/</guid>
+      <description>Poster Abstract Internet of Things (IoT) applications and services need data, which is collected from distributed and heterogeneous sensors, to be aggregated, integrated and interpreted in the context of other sources of information. Linked Data can facilitate this through the use of common identifiers, ontologies and self-describing semantics. However, storing sensor data as Linked Data is inefficient in terms of storage and query performance which is further exacerbated by the resource constraints of compact devices &amp;amp; hubs that are deployed in close proximity to sensors to perform this integration.</description>
+    </item>
+    
+    <item>
+      <title>Rapid Response Linked Data</title>
+      <link>http://eugenesiow.com/talks/kaist_2015/</link>
+      <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/talks/kaist_2015/</guid>
+      <description>Slides   Event Information I presented some of my work at the International Workshop of Social Machines for Disaster Management at the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, Korea. KAIST is truly the MIT of South Korea! I had a great time interacting with the brilliant researchers there - social scientists, medical doctors, computer scientists and policy studies academics!</description>
     </item>
     
   </channel>

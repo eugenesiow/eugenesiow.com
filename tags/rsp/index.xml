@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>A Biological Internet: Building Eywa</title>
+      <link>http://eugenesiow.com/talks/shenzhen_2017/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/talks/shenzhen_2017/</guid>
+      <description>Abstract In James Cameron&amp;rsquo;s Avatar, Eywa is the guiding force and deity of the world, Pandora. Eywa is like a huge biological internet; the trees being computer servers that store information and sensors being neural-connected flora and fauna making up the planets ecosystem. We study how this science fiction construct can be brought to life by our research on building the Social Web of Things with fog computing for decentralisation and workload distribution, Linked Data for interoperability and fast stream processing with storage and processing optimisations on lightweight computers.</description>
+    </item>
+    
+    <item>
       <title>PIOTRe: Personal Internet of Things Repository</title>
       <link>http://eugenesiow.com/publications/piotre/</link>
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>

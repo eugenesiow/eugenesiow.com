@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/talks/shenzhen_2017/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/talks/kaist_2016/</loc>
+    <lastmod>2016-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/publications/piotre/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
   </url>
@@ -43,6 +53,16 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/talks/rda_plenary_7/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/talks/kaist_2015/</loc>
+    <lastmod>2015-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/about/</loc>
   </url>
   
@@ -60,6 +80,12 @@
   <url>
     <loc>http://eugenesiow.com/tags/cloud-computing/</loc>
     <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/disaster-management/</loc>
+    <lastmod>2016-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -122,6 +148,18 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/tags/social-machines/</loc>
+    <lastmod>2015-07-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/social-web/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/tags/sparql/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -131,6 +169,11 @@
     <loc>http://eugenesiow.com/tags/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/talks/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
