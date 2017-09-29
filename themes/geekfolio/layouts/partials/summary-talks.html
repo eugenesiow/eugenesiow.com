@@ -1,0 +1,4 @@
+<li><a href="{{ .URL }}">
+    <h3>{{ .Title }} <small>{{ .Date.Format "January, 2006" }}</small></h3>
+    <h4><span class="grayout">{{ .Params.subtype | title }}</span> at {{ .Description  }}</h4>
+</a></li>

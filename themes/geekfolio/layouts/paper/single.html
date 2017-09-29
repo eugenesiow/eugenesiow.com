@@ -11,7 +11,9 @@
                 {{if .Params.other}}<a href="{{.Params.other}}" class="pub-icon pub-icon-plus" data-toggle="tooltip" title="Download PDF"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>{{end}}
             </div>
         </div>
-        {{ .Content }} 
+        <div class="main-section">
+            {{ .Content }} 
+        </div>
     </div>
     <div class="col-md-4 sidebar">
         <div class="navigation">
@@ -20,9 +22,11 @@
         {{ if .Params.tags }}
         <aside class="tags">
             <h3>Tags</h3>
+            <div class="tags-list">
             {{ range .Params.tags }}    
                 <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><span class="badge">{{ . }}</span></a>
-            {{ end }}            
+            {{ end }}     
+            </div>       
         </aside>
         {{end}}
         <aside class="tags">

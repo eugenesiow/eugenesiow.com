@@ -3,14 +3,13 @@
     <h3><small>{{ .Date.Format "January, 2006" }}</small></h3>
     <div class="paper-title"><h2>{{ .Title }}</h2>
     <h3><small>{{ .Params.author }}</small></h3></div>
-    {{ .Content }} 
     <div class="row">
         <div class="container">
-            <h3>Download</h3>
-            {{if .Params.eprints}}<a href="{{.Params.eprints}}" class="pub-icon" data-toggle="tooltip" title="Access on eprints"><span class="icon-eprints"></span></a>{{end}}
-            {{if .Params.rg}}<a href="{{.Params.rg}}" class="pub-icon" data-toggle="tooltip" title="Access on ResearchGate"><span class="icon-researchgate"></span></a>{{end}}
-            {{if .Params.other}}<a href="{{.Params.other}}" class="pub-icon pub-icon-plus" data-toggle="tooltip" title="Access"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>{{end}}
+            {{if .Params.eprints}}<a href="{{.Params.eprints}}" class="pub-icon" data-toggle="tooltip" title="Download from ePrints"><span class="icon-eprints"></span></a>{{end}}
+            {{if .Params.rg}}<a href="{{.Params.rg}}" class="pub-icon" data-toggle="tooltip" title="Download from ResearchGate"><span class="icon-researchgate"></span></a>{{end}}
+            {{if .Params.other}}<a href="{{.Params.other}}" class="pub-icon pub-icon-plus" data-toggle="tooltip" title="Download PDF"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>{{end}}
         </div>
     </div>
+    <div class="main-section">{{ .Content }} </div>
 </div>   
 {{ end }}

@@ -17,6 +17,7 @@
     <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Title }} | {{ . }}{{ end }}{{ end }}</title>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Vollkorn:400,700">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
     <link href='{{ "css/style.css" | absURL }}' rel='stylesheet' type="text/css" />
     <link rel="shortcut icon" href='http://eugenesiow.com/img/avatar.png'> 
   </head>
@@ -31,4 +32,5 @@
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   <script src="//use.fontawesome.com/93c961530f.js"></script>
   <script src='{{ "js/main.js" | absURL }}'></script>
+  {{ block "scripts" . }} {{ end }}
 </html>

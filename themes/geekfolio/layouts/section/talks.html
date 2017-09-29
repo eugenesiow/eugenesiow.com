@@ -1,13 +1,14 @@
 {{ define "main" }}
     {{ .Content }}   
     <div class="container main-section">
-        <h1>{{.Title}}</h1>
-        {{ range .Data.Pages }}
+        <h1 class="section-header">Talks</h1>
+        {{ range (.Paginator 5).Pages }}
             <div class="row">
                 <ul class="nav nav-stacked blog-list">
-                    {{ partial "summary.html" . }}
+                    {{ partial "summary-talks.html" . }}
                 </ul>
             </div>
         {{ end }}
     </div>
+    {{ template "_internal/pagination.html" . }}
 {{ end }}
