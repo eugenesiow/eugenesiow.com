@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/talks/digital_day_2017/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/publications/porter_proxy/</loc>
     <lastmod>2017-04-03T00:00:00+00:00</lastmod>
   </url>
@@ -84,6 +89,12 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/tags/data-sharing/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/tags/disaster-management/</loc>
     <lastmod>2016-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -110,6 +121,12 @@
   <url>
     <loc>http://eugenesiow.com/tags/linked-data/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/open-data/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,6 +177,12 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/tags/southampton/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/tags/sparql/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -173,7 +196,7 @@
   
   <url>
     <loc>http://eugenesiow.com/talks/</loc>
-    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>

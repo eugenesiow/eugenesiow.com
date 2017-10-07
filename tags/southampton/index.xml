@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Southampton on Eugene Siow</title>
+    <link>http://eugenesiow.com/tags/southampton/</link>
+    <description>Recent content in Southampton on Eugene Siow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://eugenesiow.com/tags/southampton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Observatory: Connecting Data, Apps and Analytics</title>
+      <link>http://eugenesiow.com/talks/digital_day_2017/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/talks/digital_day_2017/</guid>
+      <description>Poster Abstract The Web Observatory is a system that locates and makes visible your metadata or, if you choose, your actual data, apps and projects from around the world. It has common technical standards, safe guards, collection and analysis tools, to allow us to observe the web and use the intelligence it holds in new and exciting ways.
+Researchers and developers from around the world are contributing their metadata, datasets,apps and tools to existing web observatories.</description>
+    </item>
+    
+  </channel>
+</rss>
