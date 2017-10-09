@@ -10,7 +10,7 @@ description: "International Workshop of Social Machines for Disaster Management 
 
 ### Slides
 
-<div style="width:512px;">
+<div class="figure-frame">
 {{< speakerdeck2 0a2d05f04f3f478f854c99e7d474c4f8 >}}
 </div>
 

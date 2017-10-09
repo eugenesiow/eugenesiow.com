@@ -9,6 +9,23 @@
     font-family: 'Vollkorn', Georgia, serif;
 }
 
+.figure-frame {
+    width: 280px;
+    margin-bottom: 5px;
+}
+
+@media screen and (min-width: 480px) {
+    .figure-frame {
+        width: 360px;
+    }
+}
+
+@media screen and (min-width: 640px) {
+    .figure-frame {
+        width: 520px;
+    }
+}
+
 .header {
     padding-left: 10px;
 }

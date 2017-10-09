@@ -21,20 +21,20 @@ CEUR Workshop Proceedings: [Volume 1690](http://ceur-ws.org/Vol-1690/)
 
 ### Slides
 
-<div style="width:480px;">
+<div class="figure-frame">
 {{< speakerdeck2 345af45afc2f4bd29be7c0c01beeb2a7 >}}
 </div>
 
 ### Applications on PIOTRe
 
 [PiSmartHome](https://github.com/eugenesiow/ldanalytics-PiSmartHome) is an application that uses the queries from the Smart Home Analytics Benchmark within a web-based interface for descriptive and diagnostic analytics. It uses D3.js to visualise over time temperature and energy usage as per the benchmark queries. Translation from SPARQL to SQL is performed using the sparql2sql-server. 
-<div style="width:480px;">
+<div class="figure-frame">
 {{< youtube g8FLr974v9o >}}
 </div>
 
 [IoTFreeboard](https://github.com/eugenesiow/iotwo) is an application that serves as a customaisable dashboard running on PIOTRe for stream processing on incoming data from smart home sensors.
 
-<div style="width:480px;">
+<div class="figure-frame">
 {{< youtube oH0iSWTmKUg >}}
 </div>
 

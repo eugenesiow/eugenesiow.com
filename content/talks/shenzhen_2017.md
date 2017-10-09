@@ -14,7 +14,7 @@ In James Cameron's Avatar, Eywa is the guiding force and deity of the world, Pan
 
 ### Slides
 
-<div style="width:512px;">
+<div class="figure-frame">
 {{< speakerdeck2 5a249d195a7945a78ae1107aeab608f1 >}}
 </div>
 

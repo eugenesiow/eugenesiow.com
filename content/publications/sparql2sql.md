@@ -20,7 +20,7 @@ DOI: [10.1007 /978-3-319-46523-4_31](https://doi.org/10.1007/978-3-319-46523-4_3
 
 ### Slides
 
-<div style="width:480px;">
+<div class="figure-frame">
 {{< speakerdeck2 c5b0e440498b4ef797963c129b37d8d0 >}}
 </div>
 

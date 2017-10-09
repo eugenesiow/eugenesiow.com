@@ -23,8 +23,12 @@ I designed this poster with a flatline style in mind.
 
 ### Videos Introducing the Web Observatory
 
-<div style="width:520px;">
+<div class="figure-frame">
 {{< youtube oeZuDwvGJTk >}}
+</div>
+
+<div class="figure-frame">
+{{< youtube 8wZR9arA4g4 >}}
 </div>
 
 ### Outputs

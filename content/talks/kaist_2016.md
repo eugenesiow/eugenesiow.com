@@ -10,7 +10,7 @@ description: "3rd International Disaster Managment Workshop in Daejeon, Korea"
 
 ### Slides
 
-<div style="width:512px;">
+<div class="figure-frame">
 {{< speakerdeck2 1eaa5312d59e49aebff50955254e5c07 >}}
 </div>
 
