@@ -162,6 +162,16 @@ aside .tags-list {
     text-align: left;
 }
 
+footer {
+    margin-top: 30px;
+}
+
+@media screen and (min-width: 800px) {
+    footer {
+        margin-top: 10px;
+    }
+}
+
 footer a {
     color: #1c1c1c;
     font-size: 2.1em;
