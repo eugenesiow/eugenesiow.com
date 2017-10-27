@@ -6,10 +6,20 @@
     <description>Recent content in Linked Data on Eugene Siow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://eugenesiow.com/tags/linked-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Demystifying the Fog: Rapid and Interoperable Computing for the Internet of Things</title>
+      <link>http://eugenesiow.com/talks/oxford_2017/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/talks/oxford_2017/</guid>
+      <description>Abstract This talk presented various papers and work done on the Map-Match-Operate abstraction for databases and streams to make efficient and interoperable query processing on Fog Computing devices possible, personal IoT repositories, the Eywa fog computing infrastructure, the Social Web of Things and TritanDB.
+Slides   Event Information The IoT Observatory aims to address research challenges related to sharing IoT datasets on a large distributed scale to support innovation in a way that will not compromise privacy and security.</description>
+    </item>
     
     <item>
       <title>Ewya: An Interoperable Fog Computing Infrastructure with RDF Stream Processing</title>
