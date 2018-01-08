@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://eugenesiow.com/talks/defence_2017/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/talks/oxford_2017/</loc>
     <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url>
@@ -107,7 +112,7 @@
   
   <url>
     <loc>http://eugenesiow.com/tags/fog-computing/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,13 +124,13 @@
   
   <url>
     <loc>http://eugenesiow.com/tags/iot/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://eugenesiow.com/tags/linked-data/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -148,12 +153,12 @@
   
   <url>
     <loc>http://eugenesiow.com/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://eugenesiow.com/tags/rsp/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -177,7 +182,7 @@
   
   <url>
     <loc>http://eugenesiow.com/tags/social-web/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -201,7 +206,7 @@
   
   <url>
     <loc>http://eugenesiow.com/talks/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>

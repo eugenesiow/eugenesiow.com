@@ -6,10 +6,20 @@
     <description>Recent content in Social Web on Eugene Siow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://eugenesiow.com/tags/social-web/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Efficient Querying for Analytics on Internet of Things Databases and Streams</title>
+      <link>http://eugenesiow.com/talks/defence_2017/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/talks/defence_2017/</guid>
+      <description>Abstract This thesis is concerned with the development of efficient methods for managing contextualised time-series data and event streams produced by the Internet of Things (IoT) so that both historical and real-time information can be utilised to generate value within analytical applications.
+From a database systems perspective, two conflicting challenges motivate this research, interoperability and performance. IoT applications integrating streams of time-series data from heterogeneous IoT agents require a level of semantic interoperability.</description>
+    </item>
     
     <item>
       <title>Demystifying the Fog: Rapid and Interoperable Computing for the Internet of Things</title>
