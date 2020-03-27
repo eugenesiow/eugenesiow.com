@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iot on Eugene Siow</title>
+    <title>IoT on Eugene Siow</title>
     <link>http://eugenesiow.com/tags/iot/</link>
-    <description>Recent content in Iot on Eugene Siow</description>
+    <description>Recent content in IoT on Eugene Siow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://eugenesiow.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analytics for the Internet of Things: A Survey</title>
+      <link>http://eugenesiow.com/publications/analytics/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/publications/analytics/</guid>
+      <description>Abstract The Internet of Things (IoT) envisions a world-wide, interconnected network of smart physical entities. These physical entities generate a large amount of data in operation, and as the IoT gains momentum in terms of deployment, the combined scale of those data seems destined to continue to grow. Increasingly, applications for the IoT involve analytics. Data analytics is the process of deriving knowledge from data, generating value like actionable insights from them.</description>
+    </item>
     
     <item>
       <title>Efficient Querying for Analytics on Internet of Things Databases and Streams</title>
@@ -28,7 +37,7 @@ From a database systems perspective, two conflicting challenges motivate this re
       
       <guid>http://eugenesiow.com/talks/oxford_2017/</guid>
       <description>Abstract This talk presented various papers and work done on the Map-Match-Operate abstraction for databases and streams to make efficient and interoperable query processing on Fog Computing devices possible, personal IoT repositories, the Eywa fog computing infrastructure, the Social Web of Things and TritanDB.
-Slides   Event Information The IoT Observatory aims to address research challenges related to sharing IoT datasets on a large distributed scale to support innovation in a way that will not compromise privacy and security.</description>
+Slides Event Information The IoT Observatory aims to address research challenges related to sharing IoT datasets on a large distributed scale to support innovation in a way that will not compromise privacy and security.</description>
     </item>
     
     <item>
@@ -55,7 +64,7 @@ Slides   Event Information The IoT Observatory aims to address research challeng
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/talks/kaist_2016/</guid>
-      <description>Slides   Event Information It was back to the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, South Korea for the 3rd International Disaster Management Workshop. As per the last few times, there were some really excellent speakers from a diverse range of studies. These included presentations on Bio Engineering, Law, Computer Science, Social Media Analytics, Civil Engineering and Food Nutrition.
+      <description>Slides Event Information It was back to the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, South Korea for the 3rd International Disaster Management Workshop. As per the last few times, there were some really excellent speakers from a diverse range of studies. These included presentations on Bio Engineering, Law, Computer Science, Social Media Analytics, Civil Engineering and Food Nutrition.
 I presented some of my work on Fog Computing, optimising Linked Data for Lightweight Computers and Personal IoT Repositories.</description>
     </item>
     
@@ -101,7 +110,7 @@ I presented some of my work on Fog Computing, optimising Linked Data for Lightwe
       <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/talks/kaist_2015/</guid>
-      <description>Slides   Event Information I presented some of my work at the International Workshop of Social Machines for Disaster Management at the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, Korea. KAIST is truly the MIT of South Korea! I had a great time interacting with the brilliant researchers there - social scientists, medical doctors, computer scientists and policy studies academics!</description>
+      <description>Slides Event Information I presented some of my work at the International Workshop of Social Machines for Disaster Management at the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, Korea. KAIST is truly the MIT of South Korea! I had a great time interacting with the brilliant researchers there - social scientists, medical doctors, computer scientists and policy studies academics!</description>
     </item>
     
   </channel>

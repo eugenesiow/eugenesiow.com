@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eugene Siow</title>
@@ -6,49 +6,67 @@
     <description>Recent content in Tags on Eugene Siow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://eugenesiow.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Analytics</title>
+      <title>analytics</title>
       <link>http://eugenesiow.com/tags/analytics/</link>
-      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/tags/analytics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cloud Computing</title>
-      <link>http://eugenesiow.com/tags/cloud-computing/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <title>big data</title>
+      <link>http://eugenesiow.com/tags/big-data/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://eugenesiow.com/tags/cloud-computing/</guid>
+      <guid>http://eugenesiow.com/tags/big-data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data Sharing</title>
-      <link>http://eugenesiow.com/tags/data-sharing/</link>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <title>CSUR</title>
+      <link>http://eugenesiow.com/tags/csur/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://eugenesiow.com/tags/data-sharing/</guid>
+      <guid>http://eugenesiow.com/tags/csur/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Disaster Management</title>
-      <link>http://eugenesiow.com/tags/disaster-management/</link>
-      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      <title>data analytics</title>
+      <link>http://eugenesiow.com/tags/data-analytics/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://eugenesiow.com/tags/disaster-management/</guid>
+      <guid>http://eugenesiow.com/tags/data-analytics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fog Computing</title>
+      <title>IoT</title>
+      <link>http://eugenesiow.com/tags/iot/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey</title>
+      <link>http://eugenesiow.com/tags/survey/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fog computing</title>
       <link>http://eugenesiow.com/tags/fog-computing/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
@@ -57,25 +75,7 @@
     </item>
     
     <item>
-      <title>Innovation</title>
-      <link>http://eugenesiow.com/tags/innovation/</link>
-      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/tags/innovation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iot</title>
-      <link>http://eugenesiow.com/tags/iot/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linked Data</title>
+      <title>linked data</title>
       <link>http://eugenesiow.com/tags/linked-data/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
@@ -84,25 +84,7 @@
     </item>
     
     <item>
-      <title>Open Data</title>
-      <link>http://eugenesiow.com/tags/open-data/</link>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/tags/open-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Query Translation</title>
-      <link>http://eugenesiow.com/tags/query-translation/</link>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/tags/query-translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rsp</title>
+      <title>rsp</title>
       <link>http://eugenesiow.com/tags/rsp/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
@@ -111,34 +93,7 @@
     </item>
     
     <item>
-      <title>Scene</title>
-      <link>http://eugenesiow.com/tags/scene/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/tags/scene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>http://eugenesiow.com/tags/security/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Machines</title>
-      <link>http://eugenesiow.com/tags/social-machines/</link>
-      <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugenesiow.com/tags/social-machines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Web</title>
+      <title>social web</title>
       <link>http://eugenesiow.com/tags/social-web/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
@@ -147,7 +102,34 @@
     </item>
     
     <item>
-      <title>Southampton</title>
+      <title>query translation</title>
+      <link>http://eugenesiow.com/tags/query-translation/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/query-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data sharing</title>
+      <link>http://eugenesiow.com/tags/data-sharing/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open data</title>
+      <link>http://eugenesiow.com/tags/open-data/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>southampton</title>
       <link>http://eugenesiow.com/tags/southampton/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
@@ -156,7 +138,34 @@
     </item>
     
     <item>
-      <title>Sparql</title>
+      <title>cloud computing</title>
+      <link>http://eugenesiow.com/tags/cloud-computing/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>http://eugenesiow.com/tags/security/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disaster management</title>
+      <link>http://eugenesiow.com/tags/disaster-management/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/disaster-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sparql</title>
       <link>http://eugenesiow.com/tags/sparql/</link>
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
       
@@ -165,11 +174,38 @@
     </item>
     
     <item>
-      <title>Web Observatory</title>
+      <title>scene</title>
+      <link>http://eugenesiow.com/tags/scene/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>innovation</title>
+      <link>http://eugenesiow.com/tags/innovation/</link>
+      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web observatory</title>
       <link>http://eugenesiow.com/tags/web-observatory/</link>
       <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/tags/web-observatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social machines</title>
+      <link>http://eugenesiow.com/tags/social-machines/</link>
+      <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/tags/social-machines/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://eugenesiow.com/tags/analytics/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/publications/analytics/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/big-data/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/csur/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/data-analytics/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/iot/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/publications/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/survey/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/talks/defence_2017/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/fog-computing/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/linked-data/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/rsp/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/social-web/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/talks/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,8 +93,38 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/tags/query-translation/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/data-sharing/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/open-data/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/southampton/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/talks/digital_day_2017/</loc>
     <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/cloud-computing/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/security/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,12 +138,22 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/tags/disaster-management/</loc>
+    <lastmod>2016-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/talks/kaist_2016/</loc>
     <lastmod>2016-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://eugenesiow.com/publications/piotre/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/sparql/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,7 +178,22 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/tags/scene/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/publications/vo/</loc>
+    <lastmod>2016-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/innovation/</loc>
+    <lastmod>2016-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eugenesiow.com/tags/web-observatory/</loc>
     <lastmod>2016-05-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,141 +208,16 @@
   </url>
   
   <url>
+    <loc>http://eugenesiow.com/tags/social-machines/</loc>
+    <lastmod>2015-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eugenesiow.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://eugenesiow.com/tags/analytics/</loc>
-    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://eugenesiow.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/cloud-computing/</loc>
-    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/data-sharing/</loc>
-    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/disaster-management/</loc>
-    <lastmod>2016-09-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/fog-computing/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/innovation/</loc>
-    <lastmod>2016-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/iot/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/linked-data/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/open-data/</loc>
-    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/publications/</loc>
-    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/query-translation/</loc>
-    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/rsp/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/scene/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/security/</loc>
-    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/social-machines/</loc>
-    <lastmod>2015-07-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/social-web/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/southampton/</loc>
-    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/sparql/</loc>
-    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/</loc>
-    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/talks/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://eugenesiow.com/tags/web-observatory/</loc>
-    <lastmod>2016-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

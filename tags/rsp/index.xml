@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rsp on Eugene Siow</title>
+    <title>rsp on Eugene Siow</title>
     <link>http://eugenesiow.com/tags/rsp/</link>
-    <description>Recent content in Rsp on Eugene Siow</description>
+    <description>Recent content in rsp on Eugene Siow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
@@ -28,7 +28,7 @@ From a database systems perspective, two conflicting challenges motivate this re
       
       <guid>http://eugenesiow.com/talks/oxford_2017/</guid>
       <description>Abstract This talk presented various papers and work done on the Map-Match-Operate abstraction for databases and streams to make efficient and interoperable query processing on Fog Computing devices possible, personal IoT repositories, the Eywa fog computing infrastructure, the Social Web of Things and TritanDB.
-Slides   Event Information The IoT Observatory aims to address research challenges related to sharing IoT datasets on a large distributed scale to support innovation in a way that will not compromise privacy and security.</description>
+Slides Event Information The IoT Observatory aims to address research challenges related to sharing IoT datasets on a large distributed scale to support innovation in a way that will not compromise privacy and security.</description>
     </item>
     
     <item>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Disaster Management on Eugene Siow</title>
+    <title>disaster management on Eugene Siow</title>
     <link>http://eugenesiow.com/tags/disaster-management/</link>
-    <description>Recent content in Disaster Management on Eugene Siow</description>
+    <description>Recent content in disaster management on Eugene Siow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Sep 2016 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/talks/kaist_2016/</guid>
-      <description>Slides   Event Information It was back to the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, South Korea for the 3rd International Disaster Management Workshop. As per the last few times, there were some really excellent speakers from a diverse range of studies. These included presentations on Bio Engineering, Law, Computer Science, Social Media Analytics, Civil Engineering and Food Nutrition.
+      <description>Slides Event Information It was back to the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, South Korea for the 3rd International Disaster Management Workshop. As per the last few times, there were some really excellent speakers from a diverse range of studies. These included presentations on Bio Engineering, Law, Computer Science, Social Media Analytics, Civil Engineering and Food Nutrition.
 I presented some of my work on Fog Computing, optimising Linked Data for Lightweight Computers and Personal IoT Repositories.</description>
     </item>
     
@@ -27,7 +27,7 @@ I presented some of my work on Fog Computing, optimising Linked Data for Lightwe
       <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/talks/kaist_2015/</guid>
-      <description>Slides   Event Information I presented some of my work at the International Workshop of Social Machines for Disaster Management at the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, Korea. KAIST is truly the MIT of South Korea! I had a great time interacting with the brilliant researchers there - social scientists, medical doctors, computer scientists and policy studies academics!</description>
+      <description>Slides Event Information I presented some of my work at the International Workshop of Social Machines for Disaster Management at the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, Korea. KAIST is truly the MIT of South Korea! I had a great time interacting with the brilliant researchers there - social scientists, medical doctors, computer scientists and policy studies academics!</description>
     </item>
     
   </channel>

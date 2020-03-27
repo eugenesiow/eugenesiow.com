@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Analytics on Eugene Siow</title>
+    <title>analytics on Eugene Siow</title>
     <link>http://eugenesiow.com/tags/analytics/</link>
-    <description>Recent content in Analytics on Eugene Siow</description>
+    <description>Recent content in analytics on Eugene Siow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://eugenesiow.com/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analytics for the Internet of Things: A Survey</title>
+      <link>http://eugenesiow.com/publications/analytics/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugenesiow.com/publications/analytics/</guid>
+      <description>Abstract The Internet of Things (IoT) envisions a world-wide, interconnected network of smart physical entities. These physical entities generate a large amount of data in operation, and as the IoT gains momentum in terms of deployment, the combined scale of those data seems destined to continue to grow. Increasingly, applications for the IoT involve analytics. Data analytics is the process of deriving knowledge from data, generating value like actionable insights from them.</description>
+    </item>
     
     <item>
       <title>PIOTRe: Personal Internet of Things Repository</title>
