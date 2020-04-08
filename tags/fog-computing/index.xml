@@ -28,7 +28,7 @@ From a database systems perspective, two conflicting challenges motivate this re
       
       <guid>http://eugenesiow.com/talks/oxford_2017/</guid>
       <description>Abstract This talk presented various papers and work done on the Map-Match-Operate abstraction for databases and streams to make efficient and interoperable query processing on Fog Computing devices possible, personal IoT repositories, the Eywa fog computing infrastructure, the Social Web of Things and TritanDB.
-Slides Event Information The IoT Observatory aims to address research challenges related to sharing IoT datasets on a large distributed scale to support innovation in a way that will not compromise privacy and security.</description>
+Slides   Event Information The IoT Observatory aims to address research challenges related to sharing IoT datasets on a large distributed scale to support innovation in a way that will not compromise privacy and security.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ Slides Event Information The IoT Observatory aims to address research challenges
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://eugenesiow.com/talks/kaist_2016/</guid>
-      <description>Slides Event Information It was back to the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, South Korea for the 3rd International Disaster Management Workshop. As per the last few times, there were some really excellent speakers from a diverse range of studies. These included presentations on Bio Engineering, Law, Computer Science, Social Media Analytics, Civil Engineering and Food Nutrition.
+      <description>Slides   Event Information It was back to the Korea Advanced Institute of Science and Technology (KAIST) in Daejeon, South Korea for the 3rd International Disaster Management Workshop. As per the last few times, there were some really excellent speakers from a diverse range of studies. These included presentations on Bio Engineering, Law, Computer Science, Social Media Analytics, Civil Engineering and Food Nutrition.
 I presented some of my work on Fog Computing, optimising Linked Data for Lightweight Computers and Personal IoT Repositories.</description>
     </item>
     
